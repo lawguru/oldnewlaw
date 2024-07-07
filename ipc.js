@@ -1,9 +1,6 @@
 /*  
 Created / coded by : Gaurav Gupta (BPS) , DySP(P) - 66th Batch
-email : gaurav38246@gmail.com
-date : 3 Jan 2024
-place : bihar police academy, Rajgir
-
+Redesigned by Aminul
 */
 
 
